@@ -1,0 +1,7 @@
+# Claude Code
+.claude/
+CLAUDE.md
+helper-build/
+helper-stubs/
+asm_patcher/*.class
+asm_patcher/*.original.class

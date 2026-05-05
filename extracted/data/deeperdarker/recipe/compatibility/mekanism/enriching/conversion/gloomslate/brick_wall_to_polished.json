@@ -1,0 +1,17 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "count": 1,
+    "item": "deeperdarker:gloomslate_brick_wall"
+  },
+  "output": {
+    "count": 1,
+    "id": "deeperdarker:polished_gloomslate_wall"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ]
+}

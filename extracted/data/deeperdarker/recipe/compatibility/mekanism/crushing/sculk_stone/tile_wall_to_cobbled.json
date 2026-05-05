@@ -1,0 +1,17 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "count": 1,
+    "item": "deeperdarker:sculk_stone_tile_wall"
+  },
+  "output": {
+    "count": 1,
+    "id": "deeperdarker:cobbled_sculk_stone_wall"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ]
+}

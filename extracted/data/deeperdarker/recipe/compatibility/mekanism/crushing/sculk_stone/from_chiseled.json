@@ -1,0 +1,17 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "count": 1,
+    "item": "deeperdarker:chiseled_sculk_stone"
+  },
+  "output": {
+    "count": 1,
+    "id": "deeperdarker:sculk_stone"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ]
+}

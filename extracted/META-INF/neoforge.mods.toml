@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="GPL-3.0"
+issueTrackerURL="https://github.com/KyaniteMods/DeeperAndDarker/issues"
+
+[[mods]]
+    modId="deeperdarker"
+    version="1.4"
+    displayName="Deeper and Darker"
+    authors="Kyanite Team"
+    credits="NewJumperr, nitro_dynamite18, angxdd, pr_ib, MainlyMaya"
+    logoFile="banner.png"
+    description='''A Minecraft mod featuring new blocks, items, armor, and hidden mysteries to complement the Deep Dark.'''
+
+[[mixins]]
+    config="deeperdarker.mixins.json"
+
+[[dependencies.deeperdarker]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,1.21.2)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.deeperdarker]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1,)"
+    ordering="NONE"
+    side="BOTH"

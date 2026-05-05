@@ -1,0 +1,17 @@
+{
+  "type": "mekanism:sawing",
+  "input": {
+    "count": 1,
+    "item": "deeperdarker:echo_boat"
+  },
+  "main_output": {
+    "count": 5,
+    "id": "deeperdarker:echo_planks"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ]
+}

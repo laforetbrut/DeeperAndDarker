@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "deeperdarker:resonarium_plate"
+  },
+  "base": {
+    "item": "minecraft:diamond_shovel"
+  },
+  "result": {
+    "count": 1,
+    "id": "deeperdarker:resonarium_shovel"
+  },
+  "template": {
+    "item": "deeperdarker:resonarium_upgrade_smithing_template"
+  }
+}

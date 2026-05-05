@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "deeperdarker:sculk_bone"
+    },
+    "C": {
+      "item": "deeperdarker:soul_crystal"
+    },
+    "D": {
+      "item": "deeperdarker:soul_dust"
+    },
+    "E": {
+      "item": "minecraft:elytra"
+    }
+  },
+  "pattern": [
+    "BCB",
+    "DED",
+    "B B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "deeperdarker:soul_elytra"
+  }
+}
