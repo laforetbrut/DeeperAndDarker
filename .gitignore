@@ -5,3 +5,7 @@ helper-build/
 helper-stubs/
 asm_patcher/*.class
 asm_patcher/*.original.class
+
+# Test procedure artefacts (local QA only — never push)
+test-procedures/
+TEST_PROCEDURE_*.html
